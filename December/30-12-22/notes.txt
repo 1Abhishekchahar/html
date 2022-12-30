@@ -1,0 +1,12 @@
+Today’s topic: Form:
+1.To get the information from the user. we have to use form tag.
+input tag attributes:
+1.type
+    1.text - to create text box
+    2.submit - to create submit button
+    3.reset - to create clear button
+2.value -> to provide default value
+3.size -> to increase the size of the box
+4.name --> this attribute is must to take data from html to javascript.
+//always use lowercamelcase letter
+example:fullName,companyDetails,addressInfo
