@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>First Form</title>
+    </head>
+    <body>
+        <form action="./Confirmation Screen.html">
+            FirstName:<input type="text" name="FirstName"/>
+            <br/>
+            <br/>
+            <input type="submit" value="Register"/>
+        </form>
+    </body>
+</html>
